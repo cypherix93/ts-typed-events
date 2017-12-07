@@ -30,9 +30,6 @@
     "typedoc": "^0.8.0",
     "typescript": "^2.5.2"
   },
-  "engines": {
-    "node": ">= 8.5.0"
-  },
   "scripts": {
     "build": "tsc",
     "build:watch": "tsc --watch",
